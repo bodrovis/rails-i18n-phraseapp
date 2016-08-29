@@ -1,24 +1,6 @@
-# README
+# The Last Rails I18n Guide You’ll Ever Need
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Source code for the [The Last Rails I18n Guide You'll Ever Need](https://phraseapp.com/blog/posts/last-rails-i18n-guide-youll-ever-need/) article
+published at phraseapp.com.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+(c) 2016 [Ilya Bodrov](http://ilyabodrov.me)
