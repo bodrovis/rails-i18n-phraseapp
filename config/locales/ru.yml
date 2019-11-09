@@ -1,4 +1,7 @@
 ru:
+  post_mailer:
+    notify:
+      subject: "Была добавлена новая запись %{title}!"
   posts:
    index:
      count:

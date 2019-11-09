@@ -1,4 +1,7 @@
 en:
+  post_mailer:
+    notify:
+      subject: "New post %{title} was added!"
   posts:
     index:
       count:
